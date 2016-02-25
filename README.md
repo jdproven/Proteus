@@ -1,6 +1,6 @@
 # Proteus
 
-Each file in this repo is a project I have worked on within about the last year.  I believe they are reflective of my current coding capabilities.  Brief descriptions of each project are listed in chronological order of completion and are as follows:
+Each file in this repo is a project I have worked on within about the last year.  I believe they are reflective of my current coding capabilities.  Projects are listed in chronological order of completion and brief descriptions of each are provided:
 
 Assgn1_aStar:
 
