@@ -8,7 +8,7 @@ This project contains one file called Assgn1_astar.java that computes the lowest
 
 Assignment3:
 
-This project contins one file called GeneticAlgorithm.java that expands on the previous project by implementing a genetic algorithm on a random path across the terrain image.  Unlike the A* project, the algorithm is not limited to traversing one pixel at a time; instead the algorithm can take multiple "steps" in any direction to traverse multiple pixels on a continuous range of directions.  These two values, number of "steps" and direction, were the two terms that were allowed to mutate to attempt to find the best path across the terrain.
+This project contains one file called GeneticAlgorithm.java that expands on the previous project by implementing a genetic algorithm on a random path across the terrain image.  Unlike the A* project, the algorithm is not limited to traversing one pixel at a time; instead the algorithm can take multiple "steps" in any direction to traverse multiple pixels on a continuous range of directions.  These two values, number of "steps" and direction, were the two terms that were allowed to mutate to attempt to find the best path across the terrain.
 
 SnappyBird:
 
@@ -16,4 +16,4 @@ SnappyBird is a game my professor gave us the framework for based off of the onc
 
 KalmanFilter:
 
-In short, this project is an implementation of the Extended Kalman Filter that uses a neural network as the observation function.  The main files I developed were Game.java and Controller.java since most things that needed to be modified in other files had already been attended to in the previous assignments.  This was, by far, the most interesting problem that I was tasked with solving during my undergraduate career both because of its practical applications (and historical use of the Kalman Filter), and because of the intensity and caliber of programming capabilites required to solve it.
+In short, this project is an implementation of the Extended Kalman Filter that uses a neural network as the observation function.  The main files I developed were Game.java and Controller.java since most things that needed to be modified in other files had already been attended to in the previous assignments.  This was, by far, the most interesting problem that I was tasked with solving during my undergraduate career both because of its practical applications (and historical use of the Kalman Filter), and because of the intensity and caliber of programming capabilities required to solve it.
