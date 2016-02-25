@@ -8,7 +8,7 @@ This project contains one file called Assgn1_astar.java that computes the lowest
 
 Assignment3:
 
-This project contins one file called GeneticAlgorithm.java that expands on the previous project by implementing a genetic algorithm on a random path across the terrain image.  Unlike A* project, the algorithm is not limited to traversing one pixel at a time; instead the algorithm can take multiple "steps" in any direction to traverse multiple pixels on a continuous range of directions.  These two values, number of "steps" and direction, were the two terms that were allowed to mutate to attempt to find the best path across the terrain.
+This project contins one file called GeneticAlgorithm.java that expands on the previous project by implementing a genetic algorithm on a random path across the terrain image.  Unlike the A* project, the algorithm is not limited to traversing one pixel at a time; instead the algorithm can take multiple "steps" in any direction to traverse multiple pixels on a continuous range of directions.  These two values, number of "steps" and direction, were the two terms that were allowed to mutate to attempt to find the best path across the terrain.
 
 SnappyBird:
 
